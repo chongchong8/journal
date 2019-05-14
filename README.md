@@ -1,23 +1,6 @@
-### Markdown
+### 20190514日志——生活琐事
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+今天第一次使用github来写个人博客。感觉很不错的功能。
+不知道记录些啥，想到什么就记录什么吧。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+以后好好使用这个功能，把更多的所思所想，生活，计划，学习等等都记录下来。
