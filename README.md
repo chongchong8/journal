@@ -6,3 +6,7 @@
 * 阅读中文manual和英文manual，中文是英文的翻译版本，看其他同学的理解，增加更多knowlege
 * 在youtube继续学习相关视频
 * 根据gromacs tutorial熟练运用例子
+### 20190515日志——今日计划
+* 阅读中文manual和英文manual第一章第二章第三章
+* 在youtube继续学习相关视频
+* 根据gromacs tutorial熟练运用例子
