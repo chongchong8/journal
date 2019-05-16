@@ -14,3 +14,4 @@
 * 今天看到16年9月入学的同学在19年5月答辩，以此类推，我16年11月入学，那么按照这个进度，我在19年7月进行答辩。时间不多了，加油。
 ### 20190516事件
 * 把gromacs tutorial 6的例子学习了http://www.mdtutorials.com/gmx/free_energy/index.html
+* 阅读论文[On the use of orientational restraints and symmetry corrections in alchemical free energy calculations](https://aip.scitation.org/doi/10.1063/1.2221683)
