@@ -17,3 +17,6 @@
 如下
 * 把gromacs tutorial 6的例子学习了http://www.mdtutorials.com/gmx/free_energy/index.html
 * 阅读论文[On the use of orientational restraints and symmetry corrections in alchemical free energy calculations](https://aip.scitation.org/doi/10.1063/1.2221683)
+### 20190517事件
+如下
+* 把gromacs 视频学习了 [here](https://www.youtube.com/watch?v=DMQifMiY_oI&list=PLOzRYVm0a65fCJJQendwEEcSrC8iwvgBn&index=31)
