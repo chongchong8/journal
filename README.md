@@ -20,3 +20,11 @@
 ### 20190517事件
 如下
 * 把gromacs 视频学习了 [here](https://www.youtube.com/watch?v=DMQifMiY_oI&list=PLOzRYVm0a65fCJJQendwEEcSrC8iwvgBn&index=31)
+## 六月 二零一九年
+### 20190601事件
+如下
+* 用一个小时阅读gromacs的manual 进一步多了解一些基础知识。注意，阅读过程中遇到比较难懂的，硬着头皮一直扣下去。
+* 进入去了金山猴子公园 除了看到猴子 还第一次看到了野猪 第一次是指第一次肉眼看到了野猪
+* Cityu 的第一篇论文的resubmission还没有提交出去 老板很忙 但愿能够不影响结果
+* NIMS的alloy工作也快进入第一次submission阶段，祝愿这次好运。
+
