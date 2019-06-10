@@ -50,3 +50,8 @@
 * 今天在图书馆弄分子动力学。
 * 学习MD计算技巧，熟能生巧；看MD相关文章，增长相关背景；做自己的MD模拟，探索出路子，快点开始算出结果；写论文
 * 写stage的论文，进一步的改好布局。
+
+### 20190610事件
+如下
+* 阅读paper:Solvation structure and energetics of electrolytes for multivalent energy storage
+* 今天在图书馆
