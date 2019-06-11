@@ -55,3 +55,15 @@
 如下
 * 阅读paper:Solvation structure and energetics of electrolytes for multivalent energy storage
 * 今天在图书馆
+
+### 20190611事件
+如下
+* 处理NIMS Paper
+* 学习MD计算技巧，熟能生巧
+* 看MD相关文章，增长相关背景
+* 做自己的MD模拟，探索出路子，快点开始算出结果
+* 写MD小论文
+* 写stage的论文，进一步的改好布局。
+* 写大论文
+* 做会议的Poster
+
