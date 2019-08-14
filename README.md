@@ -1,5 +1,8 @@
 ### Back to [Table of content](https://chongchong8.github.io/home/)
 ## 八月 二零一九年
+### 20190814
+* 尝试计算LiPF6在pure溶剂中的体系，做一些初步分析练习
+* DFT那一节的写作完成
 ### 20190812事件
 * 上午取得去西班牙的旅游签证
 * 找到实验工作中选择electrolyte的justification，确定四个二元混合体系。发给老板。
