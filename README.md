@@ -1,5 +1,8 @@
 ### Back to [Table of content](https://chongchong8.github.io/home/)
 ## 八月 二零一九年
+### 20190822
+* Ewald, Tables, Van der Waals, Electrostatics背诵记忆
+* 毕业论文写方法的那一章，加入电子结构的讨论，包括多体的薛定谔方程的描述
 ### 20190814
 * 尝试计算LiPF6在pure溶剂中的体系，做一些初步分析练习
 * DFT那一节的写作完成
