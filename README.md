@@ -1,4 +1,13 @@
 ### Back to [Table of content](https://chongchong8.github.io/home/)
+## 十二月 二零一九年
+### 20191211三
+* 去银行办事
+* 运动
+* XRD，补充基础
+* stage，改论文
+* solvent，看论文
+* 加油
+
 ## 十月 二零一九年
 ### 20191020六
 * 买菜做饭 稀饭榨菜鸡蛋牛奶芹菜炒肉加香蕉西红柿煎蛋面加苹果
