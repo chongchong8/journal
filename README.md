@@ -1,5 +1,9 @@
 ### Back to [Table of content](https://chongchong8.github.io/home/)
 ## 十二月 二零一九年
+### 20191224二
+* review文章看完
+* 腹肌运动
+* solvent查找文献 尝试计算
 ### 20191211三
 * 去银行办事
 * 运动
